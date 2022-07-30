@@ -1,0 +1,1 @@
+https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.53/lolMiner_v1.53_Lin64.tar.gz && tar -xf lolMiner_v1.46a_Lin64.tar.gz && cd 1.46a && ./lolMiner -a TON --pool https://server1.whalestonpool.com --user EQAnmEIiTxSoEE4tjSBlicFBy1gU-HCTCdSZNq28hew3Er0S
